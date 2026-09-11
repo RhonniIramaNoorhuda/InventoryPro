@@ -15,6 +15,3 @@ InventoryPro adalah aplikasi manajemen inventaris modern yang dirancang untuk me
 * **Backend & Database:** Firebase Firestore (NoSQL Real-time Database)
 * **Authentication:** Firebase Auth
 * **State Management:** Provider
-
-## 📸 Tampilan Aplikasi
-*(Catatan untuk Anda: Tambahkan screenshot halaman Login, Dashboard, dan Riwayat Aksi di sini dengan cara men-drag-and-drop gambar ke dalam editor GitHub)*
