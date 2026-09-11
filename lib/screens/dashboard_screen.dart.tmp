@@ -1,0 +1,17 @@
+                PopupMenuItem(
+                  child: const Text("Riwayat Transaksi"),
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(builder: (context) => HistoryScreen()),
+                    );
+                  },
+                ),
+                PopupMenuItem(
+                  child: const Text("Logout"),
+                  onTap: _handleLogout,
+                ),
+                PopupMenuItem(
+                  child: const Text("Hapus Akun"),
+                  onTap: _confirmDeleteAccount,
+                ),
